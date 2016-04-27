@@ -1,3 +1,4 @@
 something entirely different
 
 a
+b
