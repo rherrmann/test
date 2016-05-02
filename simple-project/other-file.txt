@@ -1,17 +1,2 @@
-something entirely different
-
-a
-b
-c
-d
-e
-f
-g
-h
-i
-j
-h
-l
-m
-n
-o
+empty
+other line
