@@ -1,4 +1,7 @@
 # test
 
-* foo
-* bar
+A.
+
+B.
+
+C.
