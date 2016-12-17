@@ -1,2 +1,3 @@
 original content
 master content
+should override remote
