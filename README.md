@@ -1,6 +1,1 @@
-# test
-
-* foo
-* bar
-* baz
-* another baz
+# start from scratch
